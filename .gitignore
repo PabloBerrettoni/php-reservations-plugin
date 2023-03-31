@@ -1,0 +1,6 @@
+.env
+node_modules
+**/plugins/*
+**/themes/*
+!**/plugins/reservations-plugin
+config
